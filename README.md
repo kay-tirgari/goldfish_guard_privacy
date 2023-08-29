@@ -4,7 +4,7 @@ At Goldfish Guard, we are committed to safeguarding your privacy and ensuring th
 
 Information We Collect:
 
-User email: Goldfish Guard app can be used without registering your personal email address on the server. However, to allow seemless synsing between multiple devices, users are required to register using a valid email address. This information will be stored on the server and used to login to servers and identify users' registered devices. Users can delete (unregister) their account from the servers at any time which will wipe all of their information including the email address.
+User email: Goldfish Guard app can be used without registering your personal email address on the server. However, to allow seemless syncing between multiple devices, users are required to register using a valid email address. This information will be stored on the server and used to login to servers and identify users' registered devices. Users can delete (unregister) their account from the servers at any time which will wipe all of their information including the email address.
 
 Encrypted Login Data: To facilitate seamless synchronization between your registered devices, Goldfish Guard temporarily stores your encrypted login data for a limited time. This encrypted data is automatically deleted from our servers after the syncing process is complete.
 

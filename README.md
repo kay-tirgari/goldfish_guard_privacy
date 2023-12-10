@@ -4,13 +4,16 @@ At Goldfish Guard, we are committed to safeguarding your privacy and ensuring th
 
 Information We Collect:
 
-User email: Goldfish Guard app can be used without registering your personal email address on the server. This will give you the option to store your sensitive information locally on your device without ever communicating this information with other devices. However, to allow seemless syncing between multiple devices, users are required to register using a valid email address. This information will be stored on the server and used to login to servers and identify users' registered devices. Users can delete (unregister) their account from the servers at any time, which will wipe all of their information including the email address. Note that, in order to clear your information, including your email address, from the servers, you are required to delete (unregister) your account from all the devices it is registered on.
+# User email:
+Goldfish Guard app can be used without registering your personal email address on the server. This will give you the option to store your sensitive information locally on your device without ever communicating this information with our servers or other devices. However, to allow seemless syncing between multiple devices, users are required to register using a valid email address. This information will be stored on the server and used to login to servers and identify users' registered devices. Users can delete (unregister) their account from the servers at any time through the application, which will wipe all of their information including the email address. Note that, in order to clear your information, including your email address, from the servers, you are required to delete (unregister) your account from all the devices it is registered on.
 
-Encrypted Login Data: To facilitate seamless synchronization between your registered devices, Goldfish Guard temporarily stores your encrypted login data for a limited time. This encrypted data is automatically deleted from our servers after the time limit has passed.
+# Encrypted data:
+To facilitate seamless synchronization between your registered devices, Goldfish Guard temporarily (for a specified time) encrypts and stores the data you have entered into the application. This encrypted data is automatically deleted from our servers after the time limit has passed to prevent your data being exposed to hackers even in an unlikly even of a breach.
 
 How We Use Your Information:
 
-Temporary Data Storage: Your encrypted login data is temporarily stored to ensure smooth synchronization between your devices. Once the synchronization process is finished, your data is automatically removed from our servers.
+# Temporary Data Storage:
+Your encrypted data is temporarily stored to ensure smooth synchronization between your devices. Once the synchronization process is finished, your data is automatically removed from our servers.
 
 Data Security:
 
@@ -18,7 +21,7 @@ We take your data security seriously and have implemented stringent measures to 
 
 Data Sharing and Disclosure:
 
-We do not share, sell, or disclose your encrypted login data to third parties. Your data is strictly used for the purpose of facilitating synchronization between your registered devices and is removed from our servers once this process is complete.
+We do not share, sell, or disclose your encrypted login data to third parties. Your data is strictly used for the purpose of facilitating synchronization between your registered devices and is removed from our servers once this process is complete. The only permanent information stored on our server is your email address which will be required during authentication.
 
 Children's Privacy:
 
